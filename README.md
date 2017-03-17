@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Info
+English:
+- Website is itsyour201.github.io
+- Only the class president is allowed to change files at will.
+- Only class 2-1 developers are allowed to edit/fix/add new features.
 
-You can use the [editor on GitHub](https://github.com/itsyour201/itsyour201.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Korean:
+- 홈페이지는 itsyour201.github.io
+- 반잔은 자유롭게 변경및 추가해도 된다.
+- 2학년 1반 개발지들만 기능을 수정/추가 할수있다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Updates:
+- Template (done)
+- Home Page (working on)
+- Fourms (planning)
+- gallery (planning)
+- games (planning)
+- live chat (planning)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsyour201/itsyour201.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
